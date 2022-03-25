@@ -18,9 +18,7 @@ int main() {
 
     case 1:    result = a - b;  break;
 
-    case 3:     // code
-
-                    break;
+    case 3:    result = a * b;  break;
 
     case 4:     // code
 
