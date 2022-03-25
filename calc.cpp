@@ -20,9 +20,7 @@ int main() {
 
     case 3:    result = a * b;  break;
 
-    case 4:     // code
-
-                    break;
+    case 4:    result = a / b;  break;
 
   }
 
